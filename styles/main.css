@@ -2,6 +2,7 @@
 @import url('footer.css');
 @import url('creations.css');
 @import url('hero.css');
+@import url('acclamation.css');
 @import url('reset.css');
 
 :root {
@@ -41,6 +42,7 @@ button {
     font-size: 12px;
     border-radius: 4px;
     color: var(--text);
+    font-family: DM Sans sans-serif;
 }
 
 .primary-button {
